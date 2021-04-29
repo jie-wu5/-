@@ -8,3 +8,8 @@ method（）
 string s;
 cin>>s;
 }
+annother way
+{
+cout<<"nice to meet you.";
+
+}
