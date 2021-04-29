@@ -3,3 +3,8 @@ main（）
  cout<<"hello world!"
 
 }
+method（）
+{
+string s;
+cin>>s;
+}
