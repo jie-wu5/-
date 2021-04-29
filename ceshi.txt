@@ -12,5 +12,9 @@ annother way
 {
 cout<<"nice to meet you.";
 
+<<<<<<< HEAD
 }
 你好，我又来了。
+=======
+}
+>>>>>>> 62fafbe74dfe4004f7fb87eea5a0eb98827a213e
